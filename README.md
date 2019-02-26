@@ -1,3 +1,5 @@
 # rsschool-2019Q1-html-css
 Maxim Gugalev
-HTML CSS Basics:https://www.codecademy.com/users/maxim.gugalev/achievements
+Codeacademy: https://www.codecademy.com/users/maxim.gugalev/achievements
+HTMLacademy: https://htmlacademy.ru/profile/id775133/achievements
+
